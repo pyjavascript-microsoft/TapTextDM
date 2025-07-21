@@ -1,0 +1,16 @@
+{
+  "name": "taptext-full-extended",
+  "version": "1.0.0",
+  "description": "TapText full extended DM application with admin powers and realtime features.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nedb": "^1.8.0",
+    "socket.io": "^4.7.2"
+  }
+}

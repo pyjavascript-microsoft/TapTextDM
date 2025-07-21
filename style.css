@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #1d2b64, #f8cdda);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+#app {
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 30px;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.3rem;
+}
